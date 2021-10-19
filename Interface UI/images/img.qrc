@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="bg">
+    <file>bg/honeycomb-wallpaper-hd-1920x1080-166094.png</file>
+    <file>bg/13326.jpg</file>
+    <file>bg/260161.jpg</file>
+  </qresource>
+</RCC>
